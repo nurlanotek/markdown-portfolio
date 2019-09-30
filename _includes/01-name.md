@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Home page for the portofolio web sete
+### Shaidullaev Nurlan
+
+Used markup for the web pages inside the GitHub
